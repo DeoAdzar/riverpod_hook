@@ -44,6 +44,8 @@ dependencies:
   zoom_tap_animation: ^1.1.0
   flutter_easyloading: ^3.0.5
   phosphor_flutter: ^2.0.0
+  firebase_core: ^2.15.1
+  flutterfire_cli: ^0.2.7
 
 dev_dependencies:
   flutter_test:

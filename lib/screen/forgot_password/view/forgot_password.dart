@@ -40,7 +40,7 @@ class ForgotPassword extends StatelessWidget {
               ),
               10.verticalSpace,
               Text(
-                "Masukan emial pengganti dibawah untuk merubah password lama mu",
+                "Masukan email pengganti dibawah untuk merubah password lama mu",
                 style: bodyLgSemiBold.copyWith(
                   color: MyColors.grey500,
                 ),
